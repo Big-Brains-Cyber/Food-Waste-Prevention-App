@@ -1,0 +1,64 @@
+{
+    "Lukas": {
+        "password": "210408",
+        "kitchen_items": {
+            "Apple": {
+                "quantity": 18.0,
+                "unit": "Slices",
+                "expiry": "2025-10-18"
+            },
+            "Chocolate chips": {
+                "quantity": 3.0,
+                "unit": "Packs",
+                "expiry": "2025-10-23"
+            },
+            "Milk": {
+                "quantity": 5.0,
+                "unit": "Litres",
+                "expiry": "2025-10-21"
+            },
+            "Bananas": {
+                "quantity": 5.0,
+                "unit": "Pieces",
+                "expiry": "2025-10-20"
+            },
+            "Grapes": {
+                "quantity": 2.0,
+                "unit": "Packs",
+                "expiry": "2025-10-19"
+            },
+            "Bread": {
+                "quantity": 0.0,
+                "unit": "Slices",
+                "expiry": "2025-10-14"
+            }
+        },
+        "donation_items": {
+            "Apple": {
+                "quantity": 10.0,
+                "pickup": "Botany Mall"
+            },
+            "Bananas": {
+                "quantity": 15.0,
+                "pickup": "Botany Mall"
+            }
+        },
+        "saved_recipes": [
+            {
+                "title": "Valentine\u2019s Day Pretzel Treats",
+                "link": "https://spoonacular.com/recipes/Valentine\u2019s-Day-Pretzel-Treats-715442"
+            },
+            {
+                "title": "White Chocolate Macadamia Banana Bread",
+                "link": "https://spoonacular.com/recipes/White-Chocolate-Macadamia-Banana-Bread-665182"
+            }
+        ],
+        "preferences": {
+            "vegetarian": false,
+            "vegan": false,
+            "glutenFree": false,
+            "dairyFree": false,
+            "ketogenic": false
+        }
+    }
+}
