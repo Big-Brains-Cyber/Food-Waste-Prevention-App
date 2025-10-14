@@ -1,2 +1,2 @@
 # Food-Waste-Prevention-App
-Creating a food waste prevention app.
+The Food Waste Prevention App is a digital tool designed to help users manage their food more efficiently and reduce waste. It allows users to track items in their kitchen, monitor expiry dates, and receive recipe suggestions based on available ingredients. The app also includes a donation feature that lets users record and share leftover food with others in the community. By combining inventory management, recipe generation, and donation tracking, the app encourages smarter food use, reduces waste, and promotes sustainability.
