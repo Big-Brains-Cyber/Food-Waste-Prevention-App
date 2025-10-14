@@ -14,7 +14,7 @@ It updates the dictionaries and then returns to the main menu.
 """
 class User:
     def __init__(self, kitchen_items, donation_items):
-        # Initialize with the current kitchen and donation dictionaries
+        # Initialise with the current kitchen and donation dictionaries
         self.kitchen_items = kitchen_items
         self.donation_items = donation_items
 
